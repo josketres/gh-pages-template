@@ -35,3 +35,5 @@ git push origin gh-pages
 # Delete our temp folder
 cd ..
 rm -rf $DIR
+
+# website is available under http://josketres.github.io/gh-pages-template.
